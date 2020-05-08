@@ -1,0 +1,16 @@
+%YAML:1.0
+
+# the save path of times.txt 
+time_path: "/home/tanyong/下载/VI-DSO测试/415_data/"
+
+# the save path of image 
+image_path: "/home/tanyong/下载/VI-DSO测试/415_data/image/"
+
+# the save path of IMU 
+imu_path: "/home/tanyong/下载/VI-DSO测试/415_data/imu/"
+
+# the name of image topic
+image_topic: /camera/color/image_raw 
+
+# the name of imu topic
+imu_topic: /camera/imu/data_raw
